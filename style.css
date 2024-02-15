@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(34, 159, 165);
+}
+h1{
+    font-size: 60px;
+    color: gray;
+    font-family: sans-serif;
+}
